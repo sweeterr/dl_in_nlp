@@ -1,0 +1,15 @@
+name: dl_in_nlp
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - tensorflow
+  - ipykernel
+  - pytorch
+  - torchvision
+prefix:  C:\Users\s.pavlova\AppData\Local\Continuum\miniconda3\envs\dl_in_nlp
+
